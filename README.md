@@ -10,6 +10,21 @@ A lightweight **Flask + MySQL** web app to manage hospital bed availability and 
 - 🛏️ Book Normal / ICU / Ventilator beds
 - 📊 MySQL stored procedures for fast reporting
 
+## 📸 Screenshots
+
+### 🟦 1. Home Page  
+<img src="https://github.com/user-attachments/assets/079d20be-3e86-4f59-a08f-f987418fb0e1" width="700"/>
+
+### 🟩 2. Admin Login  
+<img src="https://github.com/user-attachments/assets/3e3d0339-a9d6-47ab-8651-4fba15595735" width="700"/>
+
+### 🟨 3. Bed Availability Status  
+<img src="https://github.com/user-attachments/assets/efb8bde6-8326-4bb9-a4d8-beb4d024ffce" width="700"/>
+
+### 🟧 4. Book Bed Slot  
+<img src="https://github.com/user-attachments/assets/899886fa-0c01-486a-a510-804d717ff06c" width="700"/>
+
+
 ## 🗂️ Project Structure
 
 ```
